@@ -33,3 +33,6 @@ obj/
 [Rr]elease*/
 
 web/node_modules/*
+
+*.sublime-project
+*.sublime-workspace
